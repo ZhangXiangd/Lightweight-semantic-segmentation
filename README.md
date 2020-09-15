@@ -1,2 +1,2 @@
 # semantic-segmentation
-Collect lightweight semantic segmentation models
+semantic segmentation models
