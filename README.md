@@ -1,3 +1,3 @@
 # semantic-segmentation paper、note and code
-* deeplab
-1. deeplab-v1 [paper][note][code]
+## 1.deeplab
+* deeplab-v1 [paper](https://arxiv.org/pdf/1412.7062.pdf)[note][code]
